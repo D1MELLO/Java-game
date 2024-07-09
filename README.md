@@ -1,4 +1,4 @@
-# TheGame (APLHA)
+# TheGame (ALPHA)
 
 ## Descrição
 
